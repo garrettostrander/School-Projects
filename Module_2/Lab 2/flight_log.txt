@@ -1,0 +1,3 @@
+DEPARTURE: AA450 to Miami
+ARRIVAL: BA202 from London
+DEPARTURE: DL900 to Tokyo
